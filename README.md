@@ -40,7 +40,7 @@ As a dedicated, self-motivated, and proficient software engineer, data scientist
 
 Languages: **English** (fluent with neutral accent,), **Bengali** (native)
 
-- Email: `Shahidul.ugv.cse@gmail.com`
+- Email: `Shahidul.ugv.cse@gmail.com` `Shahidul.ugv.cse@outlook.com` `Shahidul.ugv.cse@ubuntu.com`
 - [GitHub @Shahidul](https://github.com/shahidulislam-cse)
 - [LinkedIn @Shahidul](https://www.linkedin.com/in/shahidul-ugv/)
 - [Twitter @Shahidul](https://twitter.com/ShahidulIslamZ1)
