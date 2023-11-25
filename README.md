@@ -2,12 +2,12 @@
 
 As a dedicated, self-motivated, and proficient software engineer, data scientist, and AI engineer, I have gained hands-on experience working with production-scale datasets and services at notable firms. I have led teams and won numerous awards in programming competitions, machine learning, and data science fields.
 
-Career Summary
+🔆 Career Summary
 
-- **Software Engineer** at **Google Taipei**.
-- **Software Engineering Intern** at **Google USA**.
+- **Software Engineer** at **DataPond**.
+- **Software Engineering Intern** at **DataPond**.
   - Expanded a large-scale testing framework used by Google YouTube and Search Infrastructure developers.
-- **R&D Intern** at **Synopsys Taiwan**. 
+- **R&D Intern** at **xyz bangladesh**. 
   - Designed, implemented and analyzed graph algorithms on production-scale datasets.
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
 - 11 years of experience in competitive programming. Led numerous teams and gave lectures.
@@ -38,17 +38,17 @@ Career Summary
 
 ## Contact
 
-Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Bengali** (native)
+Languages: **English** (fluent with neutral accent,), **Bengali** (native)
 
 - Email: `Shahidul.ugv.cse@gmail.com`
-- [GitHub @lnishan](https://github.com/shahidulislam-cse)
-- [LinkedIn @lnishantw](https://www.linkedin.com/in/shahidul-ugv/)
-- [Twitter @lnishantw](https://twitter.com/lnishantw)
+- [GitHub @Shahidul](https://github.com/shahidulislam-cse)
+- [LinkedIn @Shahidul](https://www.linkedin.com/in/shahidul-ugv/)
+- [Twitter @Shahidul](https://twitter.com/ShahidulIslamZ1)
 
 
 ## Education
 
-- **National Chiao Tung University**  
+- **University of Global Village(UGV)**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
   - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub), a project mentored by Mozilla to make managing GitHub organizations easier. Features a SQL-like syntax to fetch aggregate data from GitHub API. Wrote a SQL parser from scratch.
   - **GPA: 4.01**/4.30
