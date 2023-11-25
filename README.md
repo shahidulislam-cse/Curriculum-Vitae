@@ -1,6 +1,6 @@
 # Shahidul Islam “Zahid”
 
-Dedicated, self-motivated and proficient software engineer with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
+As a dedicated, self-motivated, and proficient software engineer, data scientist, and AI engineer, I have gained hands-on experience working with production-scale datasets and services at notable firms. I have led teams and won numerous awards in programming competitions, machine learning, and data science fields.
 
 Career Summary
 
